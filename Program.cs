@@ -7,8 +7,8 @@ namespace DPRN2_U1_A1_JULM
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("eeeeeeeeeeeeeeeeee");
-
+            
+            
         }
     }
 }
